@@ -1,4 +1,4 @@
-require "spec_helper"
+#require "spec_helper"
 
 describe "#catch_phrase" do 
   it "puts out a catch phrase" do 
